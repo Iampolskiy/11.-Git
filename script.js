@@ -8,3 +8,7 @@ function newFeature() {
 function newFeature123() {
     console.log("new123")
 }
+function newFeaturnext() {
+    console.log("next")
+}
+
